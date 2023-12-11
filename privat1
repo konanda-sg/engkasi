@@ -1,14 +1,6 @@
-YANG MENEMUKAN SOURCE INI HARAP TIDAK DISEBARLUASKAN
-HARGAI CREATOR DAN NIKMATI SAJA
 
 
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", SELAMAT DATANG DI CHANNEL INALDIE
-https://github.com/Arrasyid22/inaldie/raw/main/WELCOM.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", JOINT TELEGRAM https://t.me/IPTVcostum
-https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", LINK SAWER https://saweria.co/Inaldie22
-https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
 #EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 1
@@ -112,43 +104,43 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501441_&
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 1
+#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️LIVE MOTOGP🏍️#", GP LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=560513_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 2
+#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️LIVE MOTOGP🏍️#", GP LIVE 2
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=751946_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 3
+#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️LIVE MOTOGP🏍️#", GP LIVE 3
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=652929_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 4
+#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️LIVE MOTOGP🏍️#", GP LIVE 4
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=97148_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 5
+#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️LIVE MOTOGP🏍️#", GP LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520554_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 6
+#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️LIVE MOTOGP🏍️#", GP LIVE 6
 http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1925_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 1
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️LIVE F1🏎️#", F1 LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520553_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 2
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️LIVE F1🏎️#", F1 LIVE 2
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=603379_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 3
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️LIVE F1🏎️#", F1 LIVE 3
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=728722_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 4
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️LIVE F1🏎️#", F1 LIVE 4
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768770_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 5
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️LIVE F1🏎️#", F1 LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=799064_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO_NESIA 1", ###INDO_NESIA 1###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONESIA 1", ###INDO_NESIA 1###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO_NESIA 2", ###INDO_NESIA 2###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONESIA 2", ###INDO_NESIA 2###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO_NESIA 3", ###INDO_NESIA 3###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONESIA 3", ###INDO_NESIA 3###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 1", ###MALAY_SIA 1###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAYSIA 1", ###MALAY_SIA 1###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 2", ###MALAY_SIA 2###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAYSIA 2", ###MALAY_SIA 2###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 3", ###MALAY_SIA 3###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAYSIA 3", ###MALAY_SIA 3###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MAC NASIONAL", ###MAC NASIONAL###
