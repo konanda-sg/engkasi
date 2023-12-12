@@ -69,8 +69,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2560px-Antv_logo.svg.png" group-title="LOKAL",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2560px-Antv_logo.svg.png" group-title="LOKAL",ANTV SD
-https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CqkFURD4yrhATwQCz6WJQT6vLz45ePxOdLIHrsppvIrrhQ9z423pgG5_rE_-9aN-BJRW_maIv4bU4UFNzhg6mSSOdz78J4aXpxitJxTtPcjqYbjTp2KoktsQhu4A2J7CEtzimMiV7lnmSfrGlkFoszhRey4G26bBGJA0a5oa2uZXao5RAAA7mqE78jXl_b-dhz-D5wJQTcfmf7tls0Eq5sKh2iUTe4WQ7ver_bSk4CSZWrkrBKPPPxzpib3gNcaXzkijNsBObGjw6AXhZylIGzzzJEv_W7sKYP60avVHhReGzOCGA6u-EEWOv9TtmHEmmY5heiwpte8_KPY5tOVuPckxYZJflCxWBH__7UNQwWJy_J_imjUHsnTvpuebNWb67Q5O8PJFhkKaB3tXHSG_oh6zUKYM4VpFezy1CvYGoI6uOD_2AAVRob6kAxgsZENb_a3fQvHwS6Qww5ZJB2BB3qDcCtvte8clvuJKjxX0hSTeN9dyQFbJppuWBYRtBtnIJHlrl_7dUCq-74Xs9RgU330ExVqo5R-4SkK6E2JflmkevukJvwd0qw9YcczntnEc_kANo1b7GjYFskz7PRFncanLOT_zCw19bzwYVizrs0VljtWtfBtt8GVMsMTpWtQ4jlkIul5BK3ZcD9LqJf3J5BJnnHZNBU0nOPqTs7Wshu0b2V6iZzqbXYGKpe7YKSTkhcyfz7EkiKtYB_kv0r2LpaI89jAoUEg8GvmMHXkSJSNjPVFz_Fvu4RV6cgHsoNgGG5nEoFw0Y2V3cyChxaWEIt_VJndvBdR4NZDWgwxgzIv_gZx6YYhAD1SJbO9bghwq7WlaRNRHKa51Sy-3r6nkGBbI8cCNOjZZG5NdexPRBKKTqW741LtcM1k6e3verfzszJAGZ7dnOBmLTlVeGgxtkh9D_3ym1dWTCQcgASoJdXMtd2VzdC0yMJQI.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
