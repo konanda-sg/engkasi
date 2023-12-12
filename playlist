@@ -519,3 +519,164 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA",Sony TEN 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
+################################################################################
+####################################    RELIGI    ######################################
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="RELIGI",Al Quran Al Kareem TV
+https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png" group-title="RELIGI",Tawaf TV
+https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="RELIGI",Muslim TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="RELIGI",TV 9 Nusantara
+https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="RELIGI",TV Mu
+https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="RELIGI",EWTN
+https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="RELIGI",LIFE
+https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" group-title="RELIGI",Reformed 21
+https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DAAI.png" group-title="RELIGI", DAAITV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="RELIGI", RODJA TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="RELIGI", RODJA TV
+http://210.210.155.37/x6bnqe/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="RELIGI", MEKKAH LIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIMx26oqhduWuWfgOOXJWK3mIzy1mOTEoWvmS4JOJKUK6MYmdEI4iNg4&s=10",Kani Quran hd
+http://baghdad.zinamedia.net/live//Kanihd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5-PCyCGliMSpw-XPZF6GravIoaUdt6BKTQ&usqp=CAU",Bangawaztv
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5fnLBVoEJJE_4W1CschbviVBr6aBkbMLCA&usqp=CAU",MihrabTV
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbtAFk2MpIi334Gs5AkJNGXJZXfzIaJBW_A&usqp=CAU",Sada Tv
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" group-title="RELIGI", AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png" group-title="RELIGI", ALFURQON TV (SD)
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/rodja.png" group-title="RELIGI", RODJA TV 1 (HD)
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-300x93.png" group-title="RELIGI", BRTV 
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="RELIGI", Radio Al Iman
+https://radioislamindonesia.com/aliman.mp3?_=2
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/shahabat.png" group-title="RELIGI", Radio Sahabat
+https://radioislamindonesia.com/shahabatmuslim.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png" group-title="RELIGI", Radio RODJA
+https://server-s5.xajist.com/sslstream/8522/;?1672893035952
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/hang.png" group-title="RELIGI", Radio HANG
+http://185.47.62.52:8000/
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/syiartauhidaceh.png" group-title="RELIGI", Radio Syi'ar Tauhid Aceh
+http://45.64.97.82:8260/;
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/arrisalahfm.png" group-title="RELIGI", Radio Arrisalah
+https://pu.klikhost.com:8092/stream
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/insanifm.png" group-title="RELIGI", Radio Insani
+https://ssg.streamingmurah.com:8070/;
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/hidayahfm.png" group-title="RELIGI", Radio Hidayah
+https://radioislamindonesia.com/radiohidayah.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiohsi.png" group-title="RELIGI", Radio HSI
+http://whsh4u-panel.com:14007/
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/alkanz.png" group-title="RELIGI", Radio AlKanz
+http://live.radiomutiaraquran.com:8000/stream
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png" group-title="RELIGI", Radio MADINAH
+https://radioislamindonesia.com/radiomadinah.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png" group-title="RELIGI", Radio Raudlatul Jannah
+http://live.syaria.net:9306/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://taawundakwah.com/wp-content/uploads/2016/09/logo-rds-kotak-720x720.jpg" group-title="RELIGI", Radio Dakwah Sunnah
+http://live.dakwahsunnah.com/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RjrdJtCe7ie0XeuLQ9lDW4-cQrgfZSqAlQ&usqp=CAU" group-title="RELIGI", Radio Kita Cirebon
+https://sunnah.radio.yufid.com/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHyVJ0BP1nv9Nz1twHDKmqnoC5AfFhtoV7rQ&usqp=CAU" group-title="RELIGI", Radio Tafsir Al-Quran
+http://206.72.199.179:9992/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmkvWaBxEJtWwMoOltHm5bxP28wTLiv1bSvqC0NLMRnkRfrgFTNtkLdRr&s=10" group-title="RELIGI", Radio KSA Sunnah
+https://radiosunna.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tQ-zo_la_JpWWfNtxtT-gROFNtB8z68iqg&usqp=CAU" group-title="RELIGI", Radio Ruqyah
+https://stream-40.zeno.fm/pz72fq579f0uv?zs=Ul5sqtHcSt2egYs9SrjFzw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRdqqji6nU67b5YzmJa2sBuHQwwwZIM43ug&usqp=CAU" group-title="RELIGI", Radio Dzikir Pagi
+https://ia800309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirPagi.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWYzrjnSFY9iO05yXgdtheirfXTDP19ay5A&usqp=CAU" group-title="RELIGI", Radio Dzikir Petang
+https://ia600309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirSore_hiss_reduce.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/amoeba.png" group-title="RELIGI", Radio Amoeba FM
+http://live.syaria.net:9300/;?1672826390470
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiodai.png" group-title="RELIGI", Radio DAI
+http://pu.klikhost.com:7204/stream?1672828237600
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/rjfm.png" group-title="RELIGI", Radio RJFM
+http://live.syaria.net:9306/;?1672828352135
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14s_jKCtayPLydi6z0TTJFx2Fh85lIA_okQ&usqp=CAU" group-title="RELIGI", Radio Al-Qur'an Indo
+http://server2.quraan.us:9978/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png" group-title="RELIGI", Radio UFA
+https://radio.firanda.com/ufalive24.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/alhikmahfm.png" group-title="RELIGI", Radio Al-Hikmah
+http://live2.indostreamserver.com:8010/index.html?sid=1
