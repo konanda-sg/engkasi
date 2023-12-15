@@ -1,0 +1,236 @@
+#EXTM3U
+
+#################### LOKAL ####################
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtlRvUryTY30d-8NvjtrjAuD48bgsgwOcmmHJV_3QBDixH7HAMaRpQZ0klyEa_BOR7P8&usqp=CAU", Makkah Live (o)
+https://edge.taghtia.com/sa/7.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWEGTHkHWNq71S6GyY934v1b6x-mEQxQFmMKnXS4g2CZNCofKgQ6nAw147yqz-CkTGTo&usqp=CAU", Madinah Live (o)
+https://edge.taghtia.com/sa/6.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rcti.png", RCTI (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_sctv.png", SCTV (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_sctv.png", SCTV (tr)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indosiar.png", Indosiar (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indosiar.png", Indosiar (tr)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png", ANTV (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CpIF5YDgV47csYcf7LfQ5F7yh3VkL9CU54s30Oa6vZXjjRUEAav_OmSB6Vjyi15nQs5fZ5syAiVNaECdaLN67T9YIMuUymy2z8QFidCCiFI8mLxhBgnLHZ9g9-Oa9c3424Ucqmq1MPMwUWxJNL8VIG7KAugFe5QgvmV0ATPPTRzFlIBOwe5OE1UytDjSaiPD_dWLaGA6mLHcALlv-jybJ5AuWGXwuK-9d-adu5gBfIHG2V9pSQ6rAD5oNuREYRC3Y7L5_TP9ozZzegT7pXIPfGdNso29wC7YYHimR62Nu_S0_s8rj91Ff4j_XKVDGui8swvOijqdc1uaJtzUAMVIVRm46-S5dTJFy2R5XLZ83tT-3ueV51xJ_Y4zEYXKGTjkfUHZs28MBQfNyuhNAaPrJLpDv4kjy8YeALv3eKmE3jLhSn3nwHuTBe4y7eZv2yzWAPHvtyaN197uynbbnqjIQtA6Bq_xR06mKicM2YOS6kgRvR5yX6LJiS8bBkBH2pouAvRqEie3RUyI5p_E6R6eiSHFypV5BMELFhwZ2WVgMNAFzv5UEN9HcCLIJF7xDgT4uhaOz25Xv2aTcqD3oe4vJnYfyt_aiUshHATUJLcf03e5JAz185UHbD--1dW16xqxRnKMj4oioTqPWiP7HLDKMMcrOTG9NlOhuym7S5Ndn7QgGPIb_114-2_F9xsw5nd1uzB8Lq5qGsGnhMVgN8ATxXUNBlyewZSnzXurqDThcS8gPP4st3BCyCS9FF7Z3VR94J2jqwr762KgClyEiOcB-cPGpayseJzIHhZmN3mprnNuq__XOxmXgFT8ZrADYytxg0FhMqe_VAL_cYSzydh5xmJJKMjhNX5UT05WWxVtI3b9zM1AgRoMBILZ6n71ggdvHJH0IAEqCXVzLXdlc3QtMjCYCA.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_metrotv.png", Metro TV (o)
+#http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobDN1_-v0e5wQJ62eXnIoEfRRQeSl0T4t3-PIHOVG7gkibWT1uCl0HHVs0qfa5-03VW8&usqp=CAU", Metro Global Network (o)
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mnctv.png", MNCTV (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_transtv.png", Trans TV (o)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trans7.png", Trans 7 (o)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvone.png", TV ONE (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_net.png", NET. (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kompastv.png", KOMPAS TV (o)
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_gtv.png", GTV (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_inews.png", iNEWS (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtv.png", RTV (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png", TVRI (o)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnnindonesia.png" group-title="LOKAL",CNN ID (o)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1423166048_b280000_sleng.m3u8
+
+#EXTINF:0 tvg-id="CNBC ID HD" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnbcindonesia.png" group-title="LOKAL",CNBC ID (o)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w899299379_b280000_sleng.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mojitv.png", MOJI (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jtv.png", JTV (tlks)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png", All Play (tlks)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://images.indihometv.com/logo_jaktv_small1.png", JakTV (tkls)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://images.indihometv.com/logo_balitv_small1.png", BaliTV (tkls)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png", BandungTV (tkls)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://yt3.googleusercontent.com/h7vsrs8PSBJFB432ByVFNQF-uW4O3JcCc0aVJ48cLr2tiaF7WzXvTU2gAOMCb0cAlqUSblxq=s176-c-k-c0x00ffffff-no-rj", jitv (o)
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MagnaChannel.png/200px-MagnaChannel.png" group-title="LOKAL",Magna Channel (o)
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_indonesiana_ver1.png" group-title="LOKAL",IndosianaTV (o)
+#http://op-group1-swiftservehd-1.dens.tv/h/h226/02.m3u8
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nusantaratv.png" group-title="LOKAL",NusantaraTV (o)
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://media.licdn.com/dms/image/C560BAQH8KD_qlKBVcw/company-logo_200_200/0/1640068089146/digdayatv_logo?e=2147483647&v=beta&t=64XczPzDb0ndKI9Lo0LFvOIkzxhWXEA8AipHD_g5lZE" group-title="LOKAL",GarudaTV (o)
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_rri_small1.png" group-title="LOKAL",RRINet (o)
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new1-300x172.png" group-title="LOKAL",JogjaTV (o)
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png" group-title="LOKAL",QuranTV (d)
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAolnj7zTAPddRe1-P6wkxXdpBkEovMqmqA&usqp=CAU" group-title="LOKAL",SunnahTV (d)
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_bioskopindonesia.png" group-title="LOKAL",Bioskop Indonesia (i)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_flik.png" group-title="LOKAL",flik (i)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_imc.png", IMC (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dunialain.png" group-title="LOKAL",Dunia Lain (tr)
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7GRzZ_2cBr3Ergb37BNbpYqxgE7TMtWCZX4rrbOw2HdIMs40h1hCPhoABqG9gD2p4uo&usqp=CAU", Vision Prime (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9kX3vcv2j8PM8EYeYfhXlK02RXWs3v6rm3j7Pin2V6ETQt9Y9CvbGgibNaaHhPKX9TMs&usqp=CAU", OKTV (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgWsOBILCft9_uNIqm6KFnn-gEkZ1jM4J5FXwOKxHwOhWQyjjMwuXfBok1vW2LmVbDGc&usqp=CAU", ent (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLIq2IBQ5mOHygGJQwXxECDQEOPrRB2U7n3ZmYA8gxIpDqJFtjHNuLHu2W5qH1-2-wOs&usqp=CAU", inf (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#EXTINF:0 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1JwzXR1D2PWTWYmjwnkV64FQtFnboQPo4JC9wd-RgVkKrLLeNxqQCxU3XAiPt3jLr58&usqp=CAU", OkezoneTV (mnc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Khazanah_TV.png/revision/latest?cb=20210202040455" group-title="LOKAL",Khazanah (tr)
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqP2kBZ-06lgpE44i6maugxULCuCbNnEfiyotth17sA&s" group-title="LOKAL",insert! (tr)
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest/scale-to-width-down/200?cb=20210109115646" group-title="LOKAL",Channel Seru (tr)
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-OwTTtRqsl-g/XYSjJWsMKpI/AAAAAAAAoik/ZAF_xHk4frovlEifMUxRi_V-Pj6bIFV-ACLcBGAsYHQ/s1600/citra-dramat-plus-channel-logo.png" group-title="LOKAL",Citra Bioskop (lkot)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png" group-title="LOKAL",Citra Dangdut (lkot)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="LOKAL",Citra Drama (lkot)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDHkRILFIiENa-EQG6fdvl6dUvmSviDtyXJAJiz83e9SNCmmXiWLKtDzYfi7bwLNy778&usqp=CAU" group-title="LOKAL",Citra Entertainment (lkot)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
