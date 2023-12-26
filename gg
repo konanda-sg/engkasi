@@ -250,16 +250,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="MOVIEs",HBO
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="02 MOVIES",HBO
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES" tvg-id="001" tvg-name="016-LABURATV",HBO FAMLY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="02 MOVIES" tvg-id="001" tvg-name="016-LABURATV",HBO FAMLY
 http://37.49.225.197:8080/live/smooth806/MQ7UYSsfVHacEr9b/197055.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIE" tvg-id="001" tvg-name="016-LABURATV",HBO HITS
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="02 MOVIES" tvg-id="001" tvg-name="016-LABURATV",HBO HITS
 http://37.49.225.197:8080/live/smooth806/MQ7UYSsfVHacEr9b/196480.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES" tvg-id="001" tvg-name="016-LABURATV",HBO SIGNATURE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="02 MOVIES" tvg-id="001" tvg-name="016-LABURATV",HBO SIGNATURE
 http://37.49.225.197:8080/live/smooth806/MQ7UYSsfVHacEr9b/221948.m3u8EXTM3U
 
 
