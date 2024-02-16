@@ -188,6 +188,16 @@ https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_warkop
 //========================================================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="HBO TRANS",HBO HD
 https://hometv.web.id/nvchome/a0v9bw0tAQ/hbo_trans
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png?download=true" group-title="HBO",HBO (MAX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e37de1905da3ad9a4404fa9b5f87868:88bed2acf66c30116a5b421bc8930d67
+https://astvstreaming.my.id/stream/cendolcen/manifest.mpd?kid=1e37de19-05da-3ad9-a440-4fa9b5f87868&ch=https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png?download=true" group-title="HBO",HBO
+http://iptvtree.net:8080/F26646/f950f250/197972
+
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="HBO TRANS",HBO SIGN HD
 https://hometv.web.id/nvchome/a0v9bw0tAQ/hbosign_trans
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="HBO TRANS",HBO HITS HD
@@ -350,6 +360,267 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+
+
+#####Bein-grup#####
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" tvg-id="beINSportsEnglish2.qa" tvg-name="beIN Sports English 2" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Bein Grup",beIN Sports 2 Englis
+http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2500/index.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Bein Grup",beIN Sports 3hls
+http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2501/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="Bein Grup",BeIN Sports 2 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="Bein Grup",BeIN Sports 3 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="Bein Grup",BeIN Sports 4 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="Bein Grup",BeIN Sports 5 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 6 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 7 AIS
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL007/DASH/TL007.mpd
+ 
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 8 AIS
+ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL008/DASH/TL008.mpd
+ 
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 9 AIS
+ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL009/DASH/TL009.mpd
+ 
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 10 AIS
+ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL010/DASH/TL010.mpd
+ 
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 11 AIS
+ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL011/DASH/TL011.mpd
+ 
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Bein Grup",BeIN Sports 12 AIS
+ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL012/DASH/TL012.mpd
+
+
+
+
+
+
+
+
+
+============
+
+#EXTINF:-1 group-logo="https://nakha.my.id/ASTRO.png" tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , TV1
+http://50.7.234.10:8278/TV1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , TV1_backup
+http://50.7.234.10:8278/TV1_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , TV2
+http://50.7.234.10:8278/TV2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , TV3
+http://50.7.234.10:8278/TV3/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , tv3_twn
+http://50.7.234.10:8278/tv3_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , NTV7
+http://50.7.234.10:8278/NTV7/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , TV8
+http://50.7.234.10:8278/TV8/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , TV9
+http://50.7.234.10:8278/TV9/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Warna-O
+http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Warna
+http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Ria_backup
+http://50.7.234.10:8278/Ria_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Ria
+http://50.7.234.10:8278/Ria/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Alhijrah
+http://50.7.234.10:8278/Alhijrah/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Alhijrah_backup
+http://50.7.234.10:8278/Alhijrah_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Awani
+http://50.7.234.10:8278/Awani/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Bernama
+http://50.7.234.10:8278/Bernama/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Prima1_xue
+http://50.7.234.10:8278/Prima1_xue/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Prima_backup
+http://50.7.234.10:8278/Prima_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Ceria
+http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , quran_mido
+http://50.7.234.10:8278/quran_mido/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , sunnah_mido
+http://50.7.234.10:8278/sunnah_mido/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Oasis
+http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Hbohits
+http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Hbo
+http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Hbosignature
+http://50.7.234.10:8278/Hbosignature/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Natgeowild
+http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Cn
+http://50.7.234.10:8278/Cn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Nickelodeon
+http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Nickjr
+http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Dreamworks
+http://50.7.234.10:8278/Dreamworks/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Citra_xue
+http://50.7.234.10:8278/Citra_xue/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Sensasi
+http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Aura
+http://50.7.234.10:8278/Aura/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Rania
+http://50.7.234.10:8278/Rania/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Boo
+http://50.7.234.10:8278/Boo/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Dsangat
+http://50.7.234.10:8278/Dsangat/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , SetOne
+http://50.7.234.10:8278/SetOne/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , KBS
+http://50.7.234.10:8278/KBS/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , TVN
+http://50.7.234.10:8278/TVN/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Astropremier
+http://50.7.234.10:8278/Astropremier/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , AEC
+http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Wlt
+http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Huahee
+http://50.7.234.10:8278/Huahee/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Huahee_backup
+http://50.7.234.10:8278/Huahee_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Quanjia
+http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Tvbmagic
+http://50.7.234.10:8278/Tvbmagic/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Tvbjade
+http://50.7.234.10:8278/Tvbjade/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Tvbasia
+http://50.7.234.10:8278/Tvbasia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Tvbentertainment
+http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Tvbclassic
+http://50.7.234.10:8278/Tvbclassic/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , AodHD
+http://50.7.234.10:8278/AodHD/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , One_mega
+http://50.7.234.10:8278/One_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Xinhe
+http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Qiyi
+http://50.7.234.10:8278/Qiyi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , AnimalPlanet
+http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Tvnmovie
+http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , cnn_twn
+http://50.7.234.10:8278/cnn_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Celestial2
+http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , cnbc_twn
+http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Arena
+http://50.7.234.10:8278/Arena/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Tlc
+http://50.7.234.10:8278/Tlc/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , cna
+http://50.7.234.10:8278/cna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , asiatravel_twn
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , bbcnews_twn
+http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Foodnetwork_mega
+http://50.7.234.10:8278/Foodnetwork_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , HGTV
+http://50.7.234.10:8278/HGTV/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Goshop
+http://50.7.234.10:8278/Goshop/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Celestial_mega
+http://50.7.234.10:8278/Celestial_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Arena2
+http://50.7.234.10:8278/Arena2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Axn
+http://50.7.234.10:8278/Axn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Paramountnetwork
+http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Kplus
+http://50.7.234.10:8278/Kplus/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Rockaction
+http://50.7.234.10:8278/Rockaction/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="httpS://omzolix.elementfx.com/logo/Astro-logo.png" group-title="ASTRO GO" , bloomberg_twn
+http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , aljazeera_twn
+http://50.7.234.10:8278/aljazeera_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Rockentertain
+http://50.7.234.10:8278/Rockentertain/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Showcase_mega
+http://50.7.234.10:8278/Showcase_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Rtmsport
+http://50.7.234.10:8278/Rtmsport/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Bolaarena1
+http://50.7.234.10:8278/Bolaarena1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://nakha.my.id/ASTRO.png" group-title="ASTRO GO" , Bolaarena2
+http://50.7.234.10:8278/Bolaarena2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+
+
+
+=====FIFA=======
+
+#EXTINF:-1 group-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1A
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1B
+https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1C
+https://i.mjh.nz/SamsungTVPlus/CHBA3300010UC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1D
+https://i.mjh.nz/SamsungTVPlus/DEBA3300019EB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1E
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1F
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1G
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1H
+https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1I
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1J
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1K
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
+
+
+
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> ENTERTAINMENT
 //========================================================================
@@ -526,4 +797,4 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11795
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/masha_bear.png" group-title="👫 KIDS 24/7",MASHA & BEAR
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11798
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/doraemon.png" group-title="👫 KIDS 24/7",DORAEMON
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11796
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11796
