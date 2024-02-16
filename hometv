@@ -165,24 +165,7 @@ http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/31.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 //========================================================================
-//copy right by,@hometv menampilkan playlist >>> HOME TV BIOSKOP
-//========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Action
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_action
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Thriller
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_thriller
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop China
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_china
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Bollywood
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_bollywood
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Drama & Family
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_drama_family
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Horror
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_horror
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Indonesia
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_indonesia
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Warkop DKI
-https://hometv.web.id/nvchome/a0v9bw0tAQ/bioskop_warkop
+
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> HBO
 //========================================================================
