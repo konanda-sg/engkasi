@@ -166,6 +166,310 @@ http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/31.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 //========================================================================
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FABC%20Australia%20SD-FirstMedia-Chl-251.jpg" group-title="FIRSTMEDIA",ABC AUSTRALIA
+https://pencarijanda.000webhostapp.com/firstmedia/abcaus.m3u8
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE%2FAsian%20Food%20Network%20SD-FirstMedia-Chl-76.jpg" group-title="FIRSTMEDIA",AFN
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=afn
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FAljazeera%20Arabic%20SD-FirstMedia-Chl-245.jpg" group-title="FIRSTMEDIA",AL JAZEERA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=aljazeera
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY%2FAnimal%20Planet%20SD-FirstMedia-Chl-105.jpg" group-title="FIRSTMEDIA",ANIMAL PLANET
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=anekasatwa
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FAnimax%20SD-FirstMedia-Chl-52.jpg" group-title="FIRSTMEDIA",ANIMAX
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=animax
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/8-LOCAL%2FANTV%20SD-FirstMedia-Chl-13.jpg" group-title="FIRSTMEDIA",ANTV HD
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=antv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY%2FArirang%20SD-FirstMedia-Chl-234.jpg" group-title="FIRSTMEDIA",ARIRANG
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=arirang
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FAXN%20SD-FirstMedia-Chl-51.jpg" group-title="FIRSTMEDIA",AXN
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=axn
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FBBC%20World%20News%20SD-FirstMedia-Chl-235.jpg" group-title="FIRSTMEDIA",BBC NEWS
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=bbcnews
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FBloomberg%20SD-FirstMedia-Chl-239.jpg" group-title="FIRSTMEDIA",BLOOMBERG
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=blomberg
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FBerita%20Satu%20SD-FirstMedia-Chl-1.webp" group-title="FIRSTMEDIA",BTV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=btv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS%2FCartoonitoHD-FirstMedia-Chl-372.png" group-title="FIRSTMEDIA",CARTOONITO
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cartoonito
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS%2FCartoon%20Network%20SD-FirstMedia-Chl-127.jpg" group-title="FIRSTMEDIA",CARTOON NETWORK
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cartoonnet
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FCCTV%204%20SD-FirstMedia-Chl-209.jpg" group-title="FIRSTMEDIA",CCTV 4
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cctv4
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES%2FCelestial%20Movies%20SD-FirstMedia-Chl-204.jpg" group-title="FIRSTMEDIA",CELESTIAL MOVIES
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=celesmov
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FCGTN%20SD-FirstMedia-Chl-210.jpg" group-title="FIRSTMEDIA",CGTN
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cgtn
+
+#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" group-title="FIRSTMEDIA",CGTN DOCUMENTARY
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cgtndoc
+	
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES%2FCitra%20Bioskop%20HD-FirstMedia-Chl-376.jpg" group-title="FIRSTMEDIA",CITRA BIOSKOP
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cbioskop
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/10-MUSIC%2FCitra%20Dangdut%20HD-FirstMedia-Chl-377.jpg" group-title="FIRSTMEDIA",CITRA DANGDUT
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cdangdut
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FCitra%20Drama%20HD-FirstMedia-Chl-378.jpg" group-title="FIRSTMEDIA",CITRA DRAMA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cdrama
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FCitra%20Entertainment%20HD-FirstMedia-Chl-379.jpg" group-title="FIRSTMEDIA",CITRA ENTERTAINMENT
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cent
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FCitra%20Muslim%20HD-FirstMedia-Chl-410.jpg" group-title="FIRSTMEDIA",CITRA MUSLIM
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cmuslim
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FChannel%20NewsAsia%20HD-FirstMedia-Chl-402.jpg" group-title="FIRSTMEDIA",CNA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cna
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FCNBC%20Asia%20SD-FirstMedia-Chl-241.jpg" group-title="FIRSTMEDIA",CNBC INT
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cnbcint
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FCNN%20International%20SD-FirstMedia-Chl-236.jpg" group-title="FIRSTMEDIA",CNN WORLD
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=cnnworld
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FCrime%20Investigation%20HD-FirstMedia-Chl-349.jpg" group-title="FIRSTMEDIA",CRIME INVESTIGATION
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=crimeinv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FDAAI%20TV%20SD-FirstMedia-Chl-27.jpg" group-title="FIRSTMEDIA",DAAITV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=daaitv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/packages/DA-LOGO_FINAL_HD_black.jpg" group-title="FIRSTMEDIA",DISCOVERY ASIA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=discoveryasia
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY%2FDiscovery%20Channel%20SD-FirstMedia-Chl-101.jpg" group-title="FIRSTMEDIA",DISCOVERY CHANNEL
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=discoverychannel
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/10-MUSIC%2FStringray%20Djazz%20HD-FirstMedia-Chl-334.jpg" group-title="FIRSTMEDIA",STRINGRAY DJAZZ
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=stdjazz
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE%2FDMAX%20HD-FirstMedia-Chl-347.jpg" group-title="FIRSTMEDIA",DMAX
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=dmax
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FDragon%20TV%20SD-FirstMedia-Chl-215.jpg" group-title="FIRSTMEDIA",DRAGON TV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=dragontv
+	
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS%2FDream%20Works%20HD-FM-Chl-374.jpg" group-title="FIRSTMEDIA",DREAMWORK
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=dreamwork
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FDW%20English%20SD-FirstMedia-Chl-233.jpg" group-title="FIRSTMEDIA",DW
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=dw
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FEuronews%20SD-FirstMedia-Chl-60.jpg" group-title="FIRSTMEDIA",EURO NEWS
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=euronews
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/12-SPORTS%2FEurosport%20SD-FirstMedia-Chl-151.jpg" group-title="FIRSTMEDIA",EUROSPORT
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=eurosport
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FEWTV%20SD-FirstMedia-Chl-29.jpg" group-title="FIRSTMEDIA",EWTV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=ewtv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE%2FFashion%20TV%20SD-FirstMedia-Chl-81.jpg" group-title="FIRSTMEDIA",FASHION TV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=fashiontv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FFrance%2024%20SD-FirstMedia-Chl-246.jpg" group-title="FIRSTMEDIA",FRANCE 24
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=france24
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/2-E-SPORT%2FFrst%20Warriors%20HD-FirstMedia-Chl-999.jpg" group-title="FIRSTMEDIA",FIRST WARRIORS
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=firstwarriors
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE%2FFood%20Network%20HD-FirstMedia-Chl-355.jpg" group-title="FIRSTMEDIA",FOOD NETWORK
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=foodnetwork
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/8-LOCAL%2FGaruda%20TV%20SD-FirstMedia-Chl-42.jpg" group-title="FIRSTMEDIA",GARUDATV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=garudatv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2Fgem-sd.jpg" group-title="FIRSTMEDIA",GEM
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=gem
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/channel%20logo/global-trekker.jpg" group-title="FIRSTMEDIA",GLOBAL TREKKER
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=globaltrekker
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FHGTV%20HD-FirstMedia-Chl-354.jpg" group-title="FIRSTMEDIA",HGTV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=hgtv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY%2FHistory%20HD-FirstMedia-Chl-365.jpg" group-title="FIRSTMEDIA",HISTORY
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=history
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FHITS%20HD-FirstMedia-Chl-326.jpg" group-title="FIRSTMEDIA",HITS
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=hits
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES%2Fhits-movies-325.jpg" group-title="FIRSTMEDIA",HITSMOVIE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=hitsmovies
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS%2FHoree%20HD-FirstMedia-Chl-375.jpg" group-title="FIRSTMEDIA",HOREE!
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=horee
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FHunan%20TV%20SD-FirstMedia-Chl-214.jpg" group-title="FIRSTMEDIA",HUNAN TV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=hunantv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FIDX%20Channel%20HD-FirstMedia-Chl-415.jpg" group-title="FIRSTMEDIA",IDX CHANNEL
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=idx
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FJakarta%20Globe%20News%20Channel%20SD-FirstMedia-Chl-2.jpg" group-title="FIRSTMEDIA",JAKARTA GLOBE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=jakartaglobe
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/8-LOCAL%2FJak%20TV%20SD-FirstMedia-Chl-62.jpg" group-title="FIRSTMEDIA",JAKTV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=jaktv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FJingsu%20TV%20SD-FirstMedia-Chl-216.jpg" group-title="FIRSTMEDIA",JINGSU TV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=jingsutv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/8-LOCAL%2FJTV%20SD-FirstMedia-Chl-17.jpg" group-title="FIRSTMEDIA",JTV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=jtv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FKairos%20SD-FirstMedia-Chl-23.jpg" group-title="FIRSTMEDIA",KAIROS
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=kairos
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FKBS%20World%20SD-FirstMedia-Chl-244.jpg" group-title="FIRSTMEDIA",KBSWORLD
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=kbsworld
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES%2FKIX%20HD-FirstMedia-Chl-336.jpg" group-title="FIRSTMEDIA",KIX
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=kix
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg" group-title="FIRSTMEDIA",KOMPASTV HD
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=kompastv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE%2FFirst%20Lifestyle%20SD-FirstMedia-Chl-373.jpg" group-title="FIRSTMEDIA",LIFESTYLE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=lifestile
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FLifetime%20HD-FirstMedia-Chl-359.jpg" group-title="FIRSTMEDIA",LIFETIME
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=lifetime
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FLight%20SD-FirstMedia-Chl-88.jpg" group-title="FIRSTMEDIA",LIGHT
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=light
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY%2FLove%20Nature%20HD-FirstMedia-Chl-368.jpg" group-title="FIRSTMEDIA",LOVE NATURE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=lovenature
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FMetro%20TV%20SD-FirstMedia-Chl-7.jpg" group-title="FIRSTMEDIA",METRO TV HD
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=metrotv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/10-MUSIC%2Fmtv90s.jpg" group-title="FIRSTMEDIA",MTV 90S
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=mtv90s
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/10-MUSIC%2FMTV%20Live%20HD-FirstMedia-Chl-358.jpg" group-title="FIRSTMEDIA",MTV STAGE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=mtvstage
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/10-MUSIC%2FStringray%20Festival%204K-FirstMedia-Chl-703.jpg" group-title="FIRSTMEDIA",STRINGRAY FESTIVAL 4K
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=stfestifal
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY%2FStringray%20Nature%20Escape%204K-FM-Chl-701.jpg" group-title="FIRSTMEDIA",STRINGRAY NATURESCAPE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=stnaturescape
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/10-MUSIC%2FStringray%20Now4K%20HD-FM-Chl-345.jpg" group-title="FIRSTMEDIA",STRINGRAY NOW 4K
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=stnow
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FNHK%20World%20Japan%20SD-FirstMedia-Chl-247.jpg" group-title="FIRSTMEDIA",NHK WORLD
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=nhkworld
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS%2FNicklodeain-FirstMedia-Chl-125.png" group-title="FIRSTMEDIA",NICKELODEON
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=nickelodeon
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS%2FNick%20Jr%20SD-FirstMedia-Chl-124.jpg" group-title="FIRSTMEDIA",NICKJR.
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=nickjr
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/icons/channel/One-Ch205.png" group-title="FIRSTMEDIA",ONE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=one
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/10-MUSIC%2FPraise%20HD-FirstMedia-Chl-388.jpg" group-title="FIRSTMEDIA",PRAISE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=praise
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/12-SPORTS%2FPremier%20Sports%20SD-FirstMedia-Chl-156.jpg" group-title="FIRSTMEDIA",PREMIER SPORTS
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=premiersports
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES%2FParamount%20Network%20HD-FirstMedia-Chl-309.jpg" group-title="FIRSTMEDIA",PARAMOUNT NETWORK
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=paramount
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FRai%20Italia%20SD-FirstMedia-Chl-258.jpg" group-title="FIRSTMEDIA",RAI ITALIA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=raiitalia
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FReformed%2021%20SD-FirstMedia-Chl-21.jpg" group-title="FIRSTMEDIA",REFORMED 21
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=reformed21
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FRussia%20Today%20SD-FirstMedia-Chl-238.jpg" group-title="FIRSTMEDIA",RUSSIA TODAY
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=rt
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FShenzen%20TV%20SD-FirstMedia-Chl-218.jpg" group-title="FIRSTMEDIA",SHENZEN TV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=shenzentv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FShine%20SD-FirstMedia-Chl-87.jpg" group-title="FIRSTMEDIA",SHINE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=shine
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FSonyET-FirstMedia-Chl-173.webp" group-title="FIRSTMEDIA",SONY ET
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=sonyet
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FSony_MAX.png" group-title="FIRSTMEDIA",SONY MAX
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=sonymax
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/12-SPORTS%2FSPOTV%20SD-FirstMedia-Chl-139.jpg" group-title="FIRSTMEDIA",SPOTV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=spotv
+	
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg" group-title="FIRSTMEDIA",SPOTV2
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=spotv2
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FTBN%20Asia%20SD-FirstMedia-Chl-61.jpg" group-title="FIRSTMEDIA",TBN ASIA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tbnasia
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE%2FTLC%20SD-FirstMedia-Chl-72.jpg" group-title="FIRSTMEDIA",TLC
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tlc
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/8-LOCAL%2FTrans%207%20SD-FirstMedia-Chl-8.jpeg" group-title="FIRSTMEDIA",TRANS 7
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=transpitu
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/8-LOCAL%2FTrans%20TV%20SD-FirstMedia-Chl-9.jpg" group-title="FIRSTMEDIA",TRANS TV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=transtv
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FTV5%20Monde%20SD-FirstMedia-Chl-260.jpg" group-title="FIRSTMEDIA",TV5 MONDE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tv5monde
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/5-FAITH%2FTV9%20SD-FirstMedia-Chl-44.jpg" group-title="FIRSTMEDIA",TV9 NUSANTARA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tv9
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FTVBS%20Asia%20SD-FirstMedia-Chl-211.jpg" group-title="FIRSTMEDIA",TVBS ASIA
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tvbsasia
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FTVBS%20News%20SD-FirstMedia-Chl-212.jpg" group-title="FIRSTMEDIA",TVBS NEWS
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tvbsnews
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FTVN%20HD-FirstMedia-Chl-339.jpg" group-title="FIRSTMEDIA",TVN
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tvn
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES%2FTvN%20Movies%20HD-FirstMedia-Chl-343.jpg" group-title="FIRSTMEDIA",TVNMOVIES
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tvnmovies
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/8-LOCAL%2FTVRI%20SD-FirstMedia-Chl-16.jpg" group-title="FIRSTMEDIA",TVRI
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tvri
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS%2FTV%20One%20SD-FirstMedia-Chl-14.jpg" group-title="FIRSTMEDIA",TVONE
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tvone
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FTVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg" group-title="FIRSTMEDIA",TVB XING
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=tvbxing
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FXing%20Kong%20Chinese%20SD-FirstMedia-Chl-206.jpg" group-title="FIRSTMEDIA",XING KONG
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=xingkong
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES%2FZee%20Bioskop%20SD-FirstMedia-Chl-161.jpg" group-title="FIRSTMEDIA",ZEEBIOSKOP
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=zeebioskop
+
+#EXTINF:-1 tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/4-ENTERTAINMENT%2FZhejiang%20TV%20SD-FirstMedia-Chl-208.jpg" group-title="FIRSTMEDIA",ZHEJIANG TV
+https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=zhejiangtv
+
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> HBO
 //========================================================================
