@@ -2763,6 +2763,11 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashrdm/dazn-linear-056/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashrdm/dazn-linear-038/stream.mpd
 
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/live-eve-kpl-srigl-2AArBu4v.png?download=true" group-title="LIGA INGGRIS" , Sport 1G
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashrdm/dazn-linear-025/stream.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
