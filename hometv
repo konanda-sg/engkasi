@@ -13,7 +13,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="",INDOSIAR
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="LOKAL ID",INDOSIAR
 https://hometv.web.id/nvchome/a0v9bw0tAQ/indosiar_oxy
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="LOKAL ID",SCTV
 https://hometv.web.id/nvchome/a0v9bw0tAQ/sctv_oxy
