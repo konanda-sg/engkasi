@@ -1024,6 +1024,56 @@ https://firstmedia.pencarijanda.workers.dev/play.m3u8?id=zhejiangtv
 
 ============================cubmu======================
 
+
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="CUBMU" tvg-id="cubmu/bioskopindonesia" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] BIOSKOP INDONESIA
+http://103.113.116.150:1234/stream/cubmu/bioskopindonesia/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:2 group-title="CUBMU" tvg-id="cubmu/cinemax" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] CINEMAX
+http://103.113.116.150:1234/stream/cubmu/cinemax/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:3 group-title="CUBMU" tvg-id="cubmu/duniaanak" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] DUNIA ANAK
+http://103.113.116.150:1234/stream/cubmu/duniaanak/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:4 group-title="CUBMU" tvg-id="cubmu/hbo" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] HBO 
+http://103.113.116.150:1234/stream/cubmu/hbo/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:5 group-title="CUBMU" tvg-id="cubmu/hbofamily" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] HBO FAMILY
+http://103.113.116.150:1234/stream/cubmu/hbofamily/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:6 group-title="CUBMU" tvg-id="cubmu/hbohits" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] HBO HITS
+http://103.113.116.150:1234/stream/cubmu/hbohits/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:7 group-title="CUBMU" tvg-id="cubmu/hbosignature" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] HBO SIGNATURE
+http://103.113.116.150:1234/stream/cubmu/hbosignature/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:8 group-title="CUBMU" tvg-id="cubmu/lingua" tvg-logo="" provider="CUBMU" provider-logo="" provider-type="iptv",[CUBMU] LINGUA
+http://103.113.116.150:1234/stream/cubmu/lingua/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:9 group-title="VISION" tvg-id="vision/abcaustralia" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] ABC Australia
+http://103.113.116.150:1234/stream/vision/abcaustralia/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:10 group-title="VISION" tvg-id="vision/alquranalqareem" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] Al Quran Al Qareem
+http://103.113.116.150:1234/stream/vision/alquranalqareem/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:11 group-title="VISION" tvg-id="vision/aljazeeraenglish" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] Aljazeera English
+http://103.113.116.150:1234/stream/vision/aljazeeraenglish/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:12 group-title="VISION" tvg-id="vision/animax" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] Animax
+http://103.113.116.150:1234/stream/vision/animax/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:13 group-title="VISION" tvg-id="vision/arirang" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] Arirang
+http://103.113.116.150:1234/stream/vision/arirang/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+#EXTINF:14 group-title="VISION" tvg-id="vision/axn" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] AXN
+http://103.113.116.150:1234/stream/vision/axn/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+
+
+
+
+
 #EXTINF:-1 group-title="CUBMU" group-logo="https://akcdn.detik.net.id/visual/2023/11/09/cubmu-dari-transvision_169.png" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://CUBMU.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
