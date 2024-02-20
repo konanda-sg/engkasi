@@ -1439,22 +1439,24 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> HBO
 //========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="HBO",HBO HD
-https://hometv.web.id/nvchome/a0v9bw0tAQ/hbo_trans
+
+
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="HBO TRANS",HBO HD
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11834
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png?download=true" group-title="HBO",HBO
 http://iptvtree.net:8080/F26646/f950f250/197972
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="HBO",HBO SIGN HD
-https://hometv.web.id/nvchome/a0v9bw0tAQ/hbosign_trans
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="HBO",HBO HITS HD
-https://hometv.web.id/nvchome/a0v9bw0tAQ/hbohits_trans
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="HBO",HBO FAMILY HD
-https://hometv.web.id/nvchome/a0v9bw0tAQ/hbofamily_trans
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="HBO",CINEMAX HD
-https://hometv.web.id/nvchome/a0v9bw0tAQ/cinemax_trans
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="HBO TRANS",HBO SIGN HD
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11835
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="HBO TRANS",HBO HITS HD
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11836
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="HBO TRANS",HBO FAMILY HD
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11837
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="HBO TRANS",CINEMAX HD
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11838
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> MOVIES
 //========================================================================
