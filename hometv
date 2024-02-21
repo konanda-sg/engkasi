@@ -1533,29 +1533,31 @@ http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11838
 
 #EXTM3U x-tvg-url=""
 
-#EXTINF:1 group-title="CUBMU" tvg-id="cubmu/bioskopindonesia" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] BIOSKOP INDONESIA
+#EXTINF:1 group-title="HBO" tvg-id="cubmu/bioskopindonesia" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] BIOSKOP INDONESIA
 http://103.113.116.150:1234/stream/cubmu/bioskopindonesia/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 
-#EXTINF:2 group-title="CUBMU" tvg-id="cubmu/cinemax" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] CINEMAX
+#EXTINF:2 group-title="HBO" tvg-id="cubmu/cinemax" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] CINEMAX
 http://103.113.116.150:1234/stream/cubmu/cinemax/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 
-#EXTINF:3 group-title="CUBMU" tvg-id="cubmu/duniaanak" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] DUNIA ANAK
+#EXTINF:3 group-title="HBO" tvg-id="cubmu/duniaanak" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] DUNIA ANAK
 http://103.113.116.150:1234/stream/cubmu/duniaanak/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 
-#EXTINF:4 group-title="CUBMU" tvg-id="cubmu/hbo" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO 
+#EXTINF:4 group-title="HBO" tvg-id="cubmu/hbo" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO 
 http://103.113.116.150:1234/stream/cubmu/hbo/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 
-#EXTINF:5 group-title="CUBMU" tvg-id="cubmu/hbofamily" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO FAMILY
+#EXTINF:5 group-title="HBO" tvg-id="cubmu/hbofamily" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO FAMILY
 http://103.113.116.150:1234/stream/cubmu/hbofamily/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 
-#EXTINF:6 group-title="CUBMU" tvg-id="cubmu/hbohits" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO HITS
+#EXTINF:6 group-title="HBO" tvg-id="cubmu/hbohits" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO HITS
 http://103.113.116.150:1234/stream/cubmu/hbohits/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 
-#EXTINF:7 group-title="CUBMU" tvg-id="cubmu/hbosignature" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO SIGNATURE
+#EXTINF:7 group-title="HBO" tvg-id="cubmu/hbosignature" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] HBO SIGNATURE
 http://103.113.116.150:1234/stream/cubmu/hbosignature/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 
 #EXTINF:8 group-title="CUBMU" tvg-id="cubmu/lingua" tvg-logo="" provider="HBO" provider-logo="" provider-type="iptv",[CUBMU] LINGUA
 http://103.113.116.150:1234/stream/cubmu/lingua/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
+
+
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> MOVIES
 //========================================================================
